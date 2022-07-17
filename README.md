@@ -33,4 +33,12 @@ The goal is to use the dataset provided and apply a neural network model to pred
         
 ## Summary
 - The accuracy of the model has changed with different setups of the neural network model. 
+    - Model 1
+      ![Model1](https://github.com/SzeWingChan/Neural_Network_Charity_Analysis/blob/main/Resources/NNW1.png)
+    - Model 2
+      ![Model2](https://github.com/SzeWingChan/Neural_Network_Charity_Analysis/blob/main/Resources/NNW2.png)  
+    - Model 3
+      ![Model3](https://github.com/SzeWingChan/Neural_Network_Charity_Analysis/blob/main/Resources/NNW3.png)  
+    - Model 4
+      ![Model4](https://github.com/SzeWingChan/Neural_Network_Charity_Analysis/blob/main/Resources/NNW4.png)
 - Since the original dataset does not contain a lot of features, a logistic regression model could have been utilized to predict whether applicants will be successful if funded by Alphabet Soup. A logistic regression model can analyze both continuous and categorical variables and therefore, is suitable for this dataset.  The setup is also less complicated than a neural network model.
